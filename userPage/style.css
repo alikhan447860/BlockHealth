@@ -138,6 +138,7 @@ html,body{
     margin-left: 110px;
     font-size: xx-large ;
     font-weight: bolder;
+    border-radius: 20px !important;
 }
 
 #block h1{
